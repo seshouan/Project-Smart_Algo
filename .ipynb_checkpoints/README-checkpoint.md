@@ -48,7 +48,7 @@ Adjusting both the short window to 25 and the long window to 125 sets the cumula
 
 **Answer:** Adjusting just one of the windows up by 25 days provides a little gain, but adjusting both upwards by 25 days at the same time results in a net loss of the strategy compared to actuals
 
-## Tuning - SMA Params
+## Tuning - Best Combination
 
 The best combo tested is:
 - dataset with slices of 7 months
